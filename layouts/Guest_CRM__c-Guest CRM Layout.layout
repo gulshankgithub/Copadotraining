@@ -18,6 +18,10 @@
                 <behavior>Edit</behavior>
                 <field>Guest_Arrival_Date__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Guest_Email__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
