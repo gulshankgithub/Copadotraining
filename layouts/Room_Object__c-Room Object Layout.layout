@@ -18,6 +18,10 @@
                 <behavior>Edit</behavior>
                 <field>Room_Allocation_Date__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Room_Check_Out__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
