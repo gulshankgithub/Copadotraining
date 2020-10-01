@@ -153,35 +153,6 @@
     <enableSharing>true</enableSharing>
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
-    <fields>
-        <fullName>Room_Allocation_Date__c</fullName>
-        <externalId>false</externalId>
-        <label>Room Allocation Date</label>
-        <required>false</required>
-        <trackHistory>false</trackHistory>
-        <trackTrending>false</trackTrending>
-        <type>Date</type>
-    </fields>
-    <fields>
-        <fullName>Room_Check_Out__c</fullName>
-        <externalId>false</externalId>
-        <label>Room Check Out</label>
-        <required>false</required>
-        <trackHistory>false</trackHistory>
-        <trackTrending>false</trackTrending>
-        <type>Date</type>
-    </fields>
-    <fields>
-        <fullName>Room_Location__c</fullName>
-        <externalId>false</externalId>
-        <label>Room Location</label>
-        <length>255</length>
-        <required>false</required>
-        <trackHistory>true</trackHistory>
-        <trackTrending>false</trackTrending>
-        <type>Text</type>
-        <unique>false</unique>
-    </fields>
     <label>Room Object</label>
     <nameField>
         <label>Room Object Name</label>
