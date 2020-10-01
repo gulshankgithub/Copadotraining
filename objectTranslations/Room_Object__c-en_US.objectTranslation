@@ -9,11 +9,11 @@
         <value>Room Objects</value>
     </caseValues>
     <fields>
-        <label><!-- Room Allocation Date --></label>
+        <label></label>
         <name>Room_Allocation_Date__c</name>
     </fields>
     <fields>
-        <label><!-- Room Location --></label>
+        <label></label>
         <name>Room_Location__c</name>
     </fields>
     <startsWith>Consonant</startsWith>
